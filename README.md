@@ -1,0 +1,2 @@
+# TelegramBotConventionReference
+A Reference implementation of the TelegramBotConventions
